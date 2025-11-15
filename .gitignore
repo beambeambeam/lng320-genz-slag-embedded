@@ -1,0 +1,108 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Jupyter Notebook outputs (optional - uncomment if you want to ignore outputs)
+# *.ipynb
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+
+# Data files (common patterns - adjust as needed)
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.db
+*.sqlite
+*.sqlite3
+
+# Model files (common patterns - adjust as needed)
+*.pth
+*.pt
+*.h5
+*.ckpt
+*.model
+models/
+checkpoints/
+
+# Large files
+*.zip
+*.tar
+*.tar.gz
+*.rar
