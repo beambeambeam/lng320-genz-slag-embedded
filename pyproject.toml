@@ -30,6 +30,4 @@ dependencies = [
 ]
 
 [dependency-groups]
-dev = [
-    "ruff>=0.1.0",
-]
+dev = ["ruff>=0.1.0"]
